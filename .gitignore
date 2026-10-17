@@ -1,0 +1,13 @@
+viirs-snpp_*.csv
+data/
+*.zip
+*.parquet
+models/
+logs/
+*.h5
+*.keras
+*.joblib
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

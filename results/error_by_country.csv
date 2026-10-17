@@ -1,0 +1,6 @@
+country,rows,accuracy,true_low_share,low_recall,false_low_rate
+Angola,40000.0,0.916,0.151,0.955,0.091
+Gabon,10840.0,0.988,0.026,0.756,0.006
+Liberia,35337.0,0.983,0.034,0.844,0.012
+Morocco,1969.0,0.966,0.075,0.919,0.03
+Tanzania,40000.0,0.943,0.166,0.968,0.062

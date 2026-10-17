@@ -1,0 +1,1 @@
+viirs-fire-confidence-africa
