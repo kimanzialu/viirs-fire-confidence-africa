@@ -1,12 +1,12 @@
-viirs-fire-confidence-africa
+##viirs-fire-confidence-africa
 
 In this project, I compare traditional machine learning (scikit-learn) and deep learning (TensorFlow/Keras) for classifying the confidence level (low / nominal / high) that NASA assigns to VIIRS satellite fire detections in five African countries.
 
-#Data
+Data:
 - **Source:** NASA FIRMS, VIIRS S-NPP 375 m active-fire detections (https://firms.modaps.eosdis.nasa.gov/download/)
 - **Target:** `confidence` (l = low, n = nominal, h = high)
 
-## What the notebook does
+What the notebook does:
 1. Loads and explores the data
 2. Cleans it and samples up to 40,000 rows per country-year
 3. Splits by year: train 2023 / validation 2024 / test 2025
