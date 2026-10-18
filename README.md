@@ -3,7 +3,7 @@
 In this project, I compare traditional machine learning (scikit-learn) and deep learning (TensorFlow/Keras) for classifying the confidence level (low / nominal / high) that NASA assigns to VIIRS satellite fire detections in five African countries.
 
 Data:
-- **Source:** NASA FIRMS, VIIRS S-NPP 375 m active-fire detections (https://firms.modaps.eosdis.nasa.gov/download/)
+- **Source:** NASA FIRMS, VIIRS S-NPP 375 m active-fire detections
 - **Target:** `confidence` (l = low, n = nominal, h = high)
 
 What the notebook does:
